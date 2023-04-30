@@ -1,4 +1,4 @@
-.env File data (create new file called .env & paste the given below code in your .env file)
+.env File data
 
 SCRECT=tests
 MONGO_URL=mongodb://localhost:27017/testWEB
